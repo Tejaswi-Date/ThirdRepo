@@ -1,0 +1,6 @@
+Hello,
+This is text file of project which contains the information about projects flow.
+First of all,
+This is my first project on git.
+And I am so excited for it.
+Thank You !!
